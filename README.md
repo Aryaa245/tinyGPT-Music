@@ -26,3 +26,7 @@ Jumlah kata:
 ### 3. Character
 - Tokenizer: Character
 - Vocab Size: 300
+
+  ### 4. Word
+- Tokenizer: Word
+- Vocab Size: 300
