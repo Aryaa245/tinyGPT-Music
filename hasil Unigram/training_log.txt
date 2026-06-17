@@ -1,0 +1,6 @@
+Step 0, loss=5.5067
+Step 300, loss=3.8998
+Step 600, loss=3.3700
+Step 900, loss=3.1136
+Step 1200, loss=3.0692
+
