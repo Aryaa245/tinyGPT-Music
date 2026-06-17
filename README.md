@@ -17,16 +17,16 @@ Jumlah kata:
 
 ### 1. BPE
 - Tokenizer: BPE
-- Vocab Size: 300
+- Vocab Size: 200
 
 ### 2. Unigram
 - Tokenizer: Unigram
-- Vocab Size: 300
+- Vocab Size: 200
 
 ### 3. Character
 - Tokenizer: Character
-- Vocab Size: 300
+- Vocab Size: 200
 
 ### 4. Word
 - Tokenizer: Word
-- Vocab Size: 300
+- Vocab Size: 200
